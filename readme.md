@@ -9,7 +9,9 @@ Adicionando uma thumbnail que é gerada automaticamente baseada no nome do arqui
 **Achou complicado?**
 Sem problemas, vamos ver melhor durante o andamento do artigo.
 ## Tecnologias
-Python e minha cabeça (fotinho de um cerebro)
+<div float="left">
+  <img src="https://github.com/guidolingip1/guidolingip1/blob/main/readme-assets/python.png" width="50">
+</div>
 
 ## Como rodar o Script?
 ### 1° Parte
