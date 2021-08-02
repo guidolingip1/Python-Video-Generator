@@ -22,8 +22,6 @@ Colocar uma foto da pasta com a pasta vídeo.
 
 ### 2° Parte
 Crie uma imagem simples, só com o logo do seu canal ou algo que queira adicionar na thumb.
-Semelhante a essa:
-COLOCAR A FOTO DA THUMB AQUI
 
 ### 3° Parte
 Rodar o Script.
