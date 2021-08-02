@@ -1,5 +1,7 @@
 # Auto video maker com Python
 
+![PythonScript](https://github.com/guidolingip1/Python-Video-Generator/blob/master/script.gif)
+
 ## O que é?
 É complicado HAHHAHA, é um projeto que pega diversos videos e transforma em um só.
 Adicionando uma thumbnail que é gerada automaticamente baseada no nome do arquivo.
